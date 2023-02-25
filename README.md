@@ -10,14 +10,18 @@ This is a small demo showing how to integrate a Next.js with Facebook using the 
 
 ## Getting Started
 
-First, run the development server:
+Install:
+
+```bash
+npm install
+```
+
+Copy `.env.example` to `.env.local` and adjust values.
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
